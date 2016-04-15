@@ -1,0 +1,10 @@
+{
+  "name": "tmcl-js",
+  "version": "0.0.1",
+  "description": "A TMCL compiler in Javascript",
+  "main": "tmcl.js",
+  "dependencies": {
+    "pegjs": "^0.9.0"
+  },
+  "devDependencies": {},
+}
